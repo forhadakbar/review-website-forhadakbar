@@ -1,6 +1,6 @@
 # Web Dev School
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was deployed in Netlify [Go To Live Site](https://review-website-forhadakbar.netlify.app/).
 
 ## Technology Used
 - JavaScript
